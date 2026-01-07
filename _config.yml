@@ -26,3 +26,25 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Add this to the bottom of your _config.yml
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-gist
+
+# Navigation
+navigation:
+  - title: "Posts"
+    url: /year-archive/
+  - title: "About"
+    url: /about/
+
+# Social Sharing (Optional but nice for blogs)
+social:
+  type: Person
+  name: "Antonios Mitsis"
+  links:
+    - https://github.com/anmitsis
+    # Add your LinkedIn here if you have one!
