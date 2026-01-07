@@ -34,9 +34,9 @@ author_profile: true
 ## Projects
 
 ### Machine Learning on Diabetes Prediction
-*Built using Python and Julia* [cite: 24]
+*Built using Python and Julia*
 * Developed predictive models for diabetes risk focusing on feature engineering and handling imbalanced data.
-* Implemented Neural Networks, Random Forests, and Gradient Boosting algorithms[cite: 32].
+* Implemented Neural Networks, Random Forests, and Gradient Boosting algorithms.
 * Created an interactive web application using **Dash.jl** for real-time predictions and SHAP value interpretability.
 
 ### Amazon Stock Forecasting
@@ -49,7 +49,7 @@ author_profile: true
 ## Training
 
 ##ture: Business Intelligence and Machine Learning
-**** | *Nov. 2024 — Jan. 2025* [cite: 40, 41]
+**** | *Nov. 2024 — Jan. 2025* 
 * Focused on SQL Server for data modeling and query optimization.
 * Designed a data warehouse transforming an OLTP database into a star schema.
 * Developed an interactive Power BI dashboard for real-time insights.

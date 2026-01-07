@@ -12,18 +12,18 @@ locale: "en-US"
 author:
   name: "Antonios Mitsis"
   avatar: "pfp.jpg"
-  [cite_start]bio: "AI/ML Python Developer & Applied Mathematician" [cite: 4, 21]
-  [cite_start]location: "Athens, Greece" [cite: 13, 26]
+  bio: "AI/ML Python Developer & Applied Mathematician"
+  location: "Athens, Greece"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      [cite_start]url: "mailto:anmitsis@hotmail.com" [cite: 2]
+      url: "mailto:anmitsis@hotmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      [cite_start]url: "https://linkedin.com/in/antonis-mitsis" [cite: 2]
+      url: "https://linkedin.com/in/antonis-mitsis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      [cite_start]url: "https://github.com/anmitsis" [cite: 2]
+      url: "https://github.com/anmitsis"
 
 # Defaults for Posts/Pages
 defaults:
