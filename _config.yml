@@ -12,11 +12,18 @@ locale: "en-US"
 author:
   name: "Antonios Mitsis"
   avatar: "pfp.jpg"
-  bio: "Software Engineer & Learner"
+  [cite_start]bio: "AI/ML Python Developer & Applied Mathematician" [cite: 4, 21]
+  [cite_start]location: "Athens, Greece" [cite: 13, 26]
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      [cite_start]url: "mailto:anmitsis@hotmail.com" [cite: 2]
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      [cite_start]url: "https://linkedin.com/in/antonis-mitsis" [cite: 2]
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/anmitsis"
+      [cite_start]url: "https://github.com/anmitsis" [cite: 2]
 
 # Defaults for Posts/Pages
 defaults:
@@ -27,7 +34,6 @@ defaults:
       layout: single
       author_profile: true
 
-# Add this to the bottom of your _config.yml
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
@@ -41,10 +47,10 @@ navigation:
   - title: "About"
     url: /about/
 
-# Social Sharing (Optional but nice for blogs)
+# Social Sharing 
 social:
   type: Person
   name: "Antonios Mitsis"
   links:
     - https://github.com/anmitsis
-    # Add your LinkedIn here if you have one!
+    # Add LinkedIn 

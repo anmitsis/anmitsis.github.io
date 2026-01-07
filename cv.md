@@ -1,0 +1,64 @@
+---
+layout: single
+title: "Curriculum Vitae"
+permalink: /cv/
+author_profile: true
+---
+[Download PDF Version]({{ site.url }}/assets/documents/CV-Mitsis-Antonios.pdf){: .btn .btn--primary}
+---
+
+## Experience
+
+### AI/ML Python Developer
+**European Dynamics** | *Feb. 2025 — Present* 
+* **Tech Stack:** Azure Databricks, Apache Spark 
+
+### Data Analyst Trainee
+**KreativStorm** | *Jun. 2023 — Aug. 2023* 
+* Conducted data cleaning, preprocessing, and exploratory data analysis using R and SPSS.
+* Applied statistical hypothesis testing to evaluate patterns and relationships in real-world datasets.
+
+### Private Tutor
+**Freelance** | *Sep. 2022 — Jun. 2024* 
+* Taught mathematics and physics to secondary level students.
+
+---
+
+## Education
+
+### MSci in Applied Mathematical and Physical Sciences
+**National Technical University of Athens (NTUA)** | *2019 — 2024*
+
+---
+
+## Projects
+
+### Machine Learning on Diabetes Prediction
+*Built using Python and Julia* [cite: 24]
+* Developed predictive models for diabetes risk focusing on feature engineering and handling imbalanced data.
+* Implemented Neural Networks, Random Forests, and Gradient Boosting algorithms[cite: 32].
+* Created an interactive web application using **Dash.jl** for real-time predictions and SHAP value interpretability.
+
+### Amazon Stock Forecasting
+*Built using Python* 
+* Developed an **LSTM neural network** for forecasting Amazon stock prices using 20 years of historical data.
+* Implemented the model using **PyTorch**, optimizing hyperparameters and data normalization.
+
+---
+
+## Training
+
+##ture: Business Intelligence and Machine Learning
+**** | *Nov. 2024 — Jan. 2025* [cite: 40, 41]
+* Focused on SQL Server for data modeling and query optimization.
+* Designed a data warehouse transforming an OLTP database into a star schema.
+* Developed an interactive Power BI dashboard for real-time insights.
+
+---
+
+## Technical Skills
+
+* **Programming Languages:** Python, R, SQL, Julia, Java, Matlab, SPSS, Minitab.
+* **Developer Tools:** Microsoft Azure, Databricks, Git, VS Code, SQL Server (SSMS).
+* **Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Dash, dplyr, caret.
+* **Languages:** Greek (Native), English (CPE).
