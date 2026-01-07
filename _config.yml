@@ -1,0 +1,28 @@
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "sunrise"
+
+# Site Settings
+title: "Antonios Mitsis"
+name: "Antonios Mitsis"
+description: "My personal blog and portfolio"
+url: "https://anmitsis.github.io"
+locale: "en-US"
+
+# Author Settings
+author:
+  name: "Antonios Mitsis"
+  avatar: "pfp.jpg"
+  bio: "Software Engineer & Learner"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/anmitsis"
+
+# Defaults for Posts/Pages
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
