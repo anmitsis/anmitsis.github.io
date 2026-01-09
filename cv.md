@@ -11,7 +11,12 @@ author_profile: true
 
 ### AI/ML Python Developer
 **European Dynamics** | *Feb. 2025 — Present* 
-* **Tech Stack:** Azure Databricks, Apache Spark 
+* Build and maintain scalable ETL and ingestion pipelines using Azure data services.
+* Implement data transformation and validation logic for structured and semi-structured data.
+* Work on NLP projects involving text processing, normalisation, classification and model integration.
+* Optimize big data workflows in distributed systems.
+* **Tech Stack:** Databricks, Azure ecosystem, Apache Spark
+
 
 ### Data Analyst Trainee
 **KreativStorm** | *Jun. 2023 — Aug. 2023* 
@@ -62,3 +67,11 @@ Project Future: Business Intelligence and Machine Learning
 * **Developer Tools:** Microsoft Azure, Databricks, Git, VS Code, SQL Server (SSMS).
 * **Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Dash, dplyr, caret.
 * **Languages:** Greek (Native), English (CPE).
+
+## Cloud Skills
+
+* **Cloud Platform:** Microsoft Azure
+* **Data Engineering:** Databricks, ADLS Gen2, EventHubs
+* **Storage & Databases:** Azure SQL, Blob Storage
+* **AI/ML:** Azure ML Studio, Language Studio, Azure Foundry, Azure OpenAI
+* **Other:** KeyVault, Azure Monitor, Log Analytics
