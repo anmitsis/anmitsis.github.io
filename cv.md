@@ -26,7 +26,7 @@ author_profile: true
 
 ## Education
 
-### MSci in Applied Mathematical and Physical Sciences
+### MSci (Integrated Master's) in Applied Mathematical and Physical Sciences
 **National Technical University of Athens (NTUA)** | *2019 — 2024*
 
 ---
@@ -37,19 +37,19 @@ author_profile: true
 *Built using Python and Julia*
 * Developed predictive models for diabetes risk focusing on feature engineering and handling imbalanced data.
 * Implemented Neural Networks, Random Forests, and Gradient Boosting algorithms.
-* Created an interactive web application using **Dash.jl** for real-time predictions and SHAP value interpretability.
+* Created an interactive web application using Dash.jl for real-time predictions and SHAP value interpretability.
 
 ### Amazon Stock Forecasting
 *Built using Python* 
-* Developed an **LSTM neural network** for forecasting Amazon stock prices using 20 years of historical data.
-* Implemented the model using **PyTorch**, optimizing hyperparameters and data normalization.
+* Developed an LSTM neural network for forecasting Amazon stock prices using 20 years of historical data.
+* Implemented the model using PyTorch, optimizing hyperparameters and data normalization.
 
 ---
 
 ## Training
 
-##ture: Business Intelligence and Machine Learning
-**** | *Nov. 2024 — Jan. 2025* 
+Project Future: Business Intelligence and Machine Learning
+ | *Nov. 2024 — Jan. 2025* 
 * Focused on SQL Server for data modeling and query optimization.
 * Designed a data warehouse transforming an OLTP database into a star schema.
 * Developed an interactive Power BI dashboard for real-time insights.
@@ -58,7 +58,7 @@ author_profile: true
 
 ## Technical Skills
 
-* **Programming Languages:** Python, R, SQL, Julia, Java, Matlab, SPSS, Minitab.
+* **Programming Languages:** Python, Spark, R, SQL, Julia, Matlab, SPSS, Minitab.
 * **Developer Tools:** Microsoft Azure, Databricks, Git, VS Code, SQL Server (SSMS).
 * **Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Dash, dplyr, caret.
 * **Languages:** Greek (Native), English (CPE).

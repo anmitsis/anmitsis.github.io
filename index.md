@@ -2,6 +2,11 @@
 layout: home
 author_profile: true
 ---
-I am Antonis, a graduate of Applied Mathematics with a specialization in Statistics and Computer Science from the National Technical University of Athens (NTUA). My academic journey has deepened my passion for statistics and fostered my enthusiasm for the dynamic field of data science & analytics. Throughout my studies, I actively engaged in statistical concepts and their applications through various projects, which honed my analytical skills and provided valuable insights into real-world problem-solving.
+Hello, I am Antonis, and this site is the product of me failing to sit around during my days-off. 
 
-I specialize in Python for statistical analysis and data science projects but am also proficient in other essential tools, including R, SQL, PowerBI. As I transition into my professional career, I am eager to apply my expertise in data science to solve complex challenges, derive actionable insights, and contribute meaningfully to innovative projects.
+I am a graduate of the [Applied Mathematics & Physical Sciences](https://semfe.ntua.gr/el/) from NTUA and I currently work as a AI/ML Python Developer or maybe Data Engineer that also likes Data Science.
+
+Facts (100% truth) about me:
+- I say thank you to AI so it knows i was raised right.
+- I dont know what to write here but i wanted to have a blog.
+- I kind of watch too much anime.
