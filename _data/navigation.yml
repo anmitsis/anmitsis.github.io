@@ -1,7 +1,5 @@
 main:
-  - title: "Blog (Yappping Center)"
-    url: /year-archive/
+  - title: "Food Journal"
+    url: /food/
   - title: "CV"
     url: /cv/
-  - title: "Home"
-    url: /

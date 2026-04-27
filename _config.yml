@@ -1,4 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "sunrise"
 
 # Site Settings
@@ -28,14 +29,13 @@ author:
       icon: "fas fa-fw fa-fire"
       url: "/dawg/"
 
-
-# Defaults for Posts/Pages
+# Defaults for Pages
 defaults:
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: food_post
       author_profile: true
 
 plugins:
@@ -46,15 +46,14 @@ plugins:
 
 # Navigation
 navigation:
-  - title: "Posts"
-    url: /year-archive/
+  - title: "Food Journal"
+    url: /food/
   - title: "About"
     url: /about/
 
-# Social Sharing 
+# Social Sharing
 social:
   type: Person
   name: "Antonios Mitsis"
   links:
     - https://github.com/anmitsis
-    # Add LinkedIn 
