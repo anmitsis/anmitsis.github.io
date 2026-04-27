@@ -11,7 +11,10 @@ gallery:
   - image_path: /assets/food/test.jpg
     url: /assets/food/test.jpg
     alt: "close up"
+  - image_path: /assets/food/give.jpg
+    url: /assets/food/give.jpg
+    alt: "close up"
   
 ---
 
-Sushi rice paired with japanese curry sauce and a big piece of tonkatsu (fried breaded pork cutlet). I am cooker very good.
+Sushi rice paired with japanese curry sauce and a big piece of tonkatsu (fried breaded pork cutlet). Scrumptious.
