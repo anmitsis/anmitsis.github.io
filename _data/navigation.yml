@@ -1,5 +1,3 @@
 main:
-  - title: "Food Journal"
-    url: /food/
   - title: "CV"
     url: /cv/

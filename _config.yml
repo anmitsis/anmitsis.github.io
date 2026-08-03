@@ -29,15 +29,6 @@ author:
       icon: "fas fa-fw fa-fire"
       url: "/dawg/"
 
-# Defaults for Pages
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: food_post
-      author_profile: true
-
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
@@ -46,10 +37,8 @@ plugins:
 
 # Navigation
 navigation:
-  - title: "Food Journal"
-    url: /food/
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /cv/
 
 # Social Sharing
 social:
