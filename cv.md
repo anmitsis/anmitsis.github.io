@@ -9,7 +9,7 @@ author_profile: true
 
 ## Experience
 
-### AI/ML Python Developer
+### Data & AI Engineer
 **European Dynamics** | *Feb. 2025 — Present* 
 * Build and maintain scalable ETL and ingestion pipelines using Azure data services.
 * Implement data transformation and validation logic for structured and semi-structured data.
